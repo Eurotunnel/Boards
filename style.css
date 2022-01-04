@@ -1,0 +1,30 @@
+.div-block {
+  margin: 20px;
+  padding: 0px 0px 220px;
+  background-color: #00008c;
+  height: 500px;
+}
+
+.section {
+  color: #fff;
+}
+
+.container{
+  width: 100%;
+  text-align: center;
+}
+
+html, body{
+    height: 99%;
+    border: 1px #000;
+    overflow:hidden;
+	background-color: #000 ;
+}
+
+td{
+	font-size: 16px;
+}
+
+.striped-border { border: 1px dashed #000; width: 50%; margin: auto; margin-top: 3px; margin-bottom: 3px; }
+
+/* hello there do you like this css? */
